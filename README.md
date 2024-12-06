@@ -121,6 +121,3 @@ To reproduce the results:
 2. Run the notebook `Trabajo Elina Filatova (en).ipynb` in Jupyter Notebook or VSCode.
 
 ---
-
-Enjoy exploring the data! 📊✨
-
