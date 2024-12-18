@@ -118,6 +118,4 @@ To reproduce the results:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
    ```
-2. Run the notebook `Trabajo Elina Filatova (en).ipynb` in Jupyter Notebook or VSCode.
-
 ---
